@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/opencommerce-kiosk/static/css/main.bf2177cc.css",
+    "main.js": "/opencommerce-kiosk/static/js/main.9741faa6.js",
+    "static/js/453.f637d339.chunk.js": "/opencommerce-kiosk/static/js/453.f637d339.chunk.js",
+    "index.html": "/opencommerce-kiosk/index.html",
+    "main.bf2177cc.css.map": "/opencommerce-kiosk/static/css/main.bf2177cc.css.map",
+    "main.9741faa6.js.map": "/opencommerce-kiosk/static/js/main.9741faa6.js.map",
+    "453.f637d339.chunk.js.map": "/opencommerce-kiosk/static/js/453.f637d339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf2177cc.css",
+    "static/js/main.9741faa6.js"
+  ]
+}
